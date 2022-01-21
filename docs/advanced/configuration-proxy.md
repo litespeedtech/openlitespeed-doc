@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OpenLiteSpeed as Reverse Proxy
+title: Use OLS as Reverse Proxy
 parent: Advanced
 permalink: /docs/advanced/proxy
 nav_order: 5
