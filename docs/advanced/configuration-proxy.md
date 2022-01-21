@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Proxy
+title: OpenLiteSpeed as Reverse Proxy
 parent: Advanced
 permalink: /docs/advanced/proxy
 nav_order: 5

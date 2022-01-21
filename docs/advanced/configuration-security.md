@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Security
+title: Security Configuration
 parent: Advanced
 permalink: /docs/advanced/security
 nav_order: 4
