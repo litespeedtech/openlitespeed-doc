@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: OpenLiteSpeed Documentation
 description: OpenLiteSpeed Documentation
-baseurl: "/docs" # the subpath of your site, e.g. /blog
+baseurl: "/openlitespeed-doc" # the subpath of your site, e.g. /blog
 url: "https://litespeedtech.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
