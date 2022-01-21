@@ -82,4 +82,4 @@ To access the WebAdmin console, visit port `7080` of your domain (for example,`h
 ## Next Step
 {: .no_toc} 
 
-- [Configuration](/docs/configuration)
+- [Configuration](/openlitespeed-doc/configuration)
