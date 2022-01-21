@@ -49,7 +49,7 @@ Learn more at [openlitespeed.org](https://openlitespeed.org).
 
 
 ## Contributors
-Many thanks to our OpenLiteSpeed contributors!
+Many thanks to our OpenLiteSpeed Documentation contributors!
 
 <ul class="list-style-none">
 {% for contributor in site.github.contributors %}
