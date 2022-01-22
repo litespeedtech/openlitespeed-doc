@@ -1,5 +1,5 @@
 # OpenLiteSpeed Documentation
-[<img src="https://img.shields.io/badge/slack-LiteSpeed-blue.svg?logo=slack">](litespeedtech.com/slack)  
+[<img src="https://img.shields.io/badge/slack-LiteSpeed-blue.svg?logo=slack">](litespeedtech.com/slack)
 [![Build Status](https://github.com/litespeedtech/openlitespeed-doc/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/litespeedtech/openlitespeed-doc/actions/)
 
 This Documentation covers basic installation and configuration for [OpenLiteSpeed Web Server](https://openlitespeed.org). 
