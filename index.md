@@ -29,7 +29,7 @@ Fast
 
 - [Launch from Image](/openlitespeed-doc/docs/installation/image) 
 - [Install from Script](/openlitespeed-doc/docs/installation/script) 
-- [Launch from Docker](/openlitespeed-doc/docs/installation/docker) 
+- [Launch from Docker](/openlitespeed-doc/installation/docker) 
 
 
 ## Supported Operating Systems 
