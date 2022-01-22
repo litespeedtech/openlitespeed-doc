@@ -3,7 +3,7 @@ layout: default
 title: Install from Repository
 parent: Installation
 nav_order: 1
-permalink: /docs/installation/repo
+permalink: /installation/repo
 ---
 
 # Install OpenLiteSpeed and PHP from LiteSpeed Repository

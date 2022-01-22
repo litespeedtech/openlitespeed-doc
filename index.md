@@ -19,7 +19,7 @@ OpenLiteSpeed (OLS) is a high-performance, lightweight, open-source web server, 
 OpenLiteSpeed is the Open Source edition of LiteSpeed Web Server Enterprise. Both servers are actively developed and maintained by the same team, and are held to the same high-quality coding standard. OLS contains all of the essential features found in LiteSpeed Enterprise, and represents our commitment to support the Open Source community.
 
 ## Getting Started
-- [Installation](/openlitespeed-doc/docs/installation/repo) 
+- [Installation](/openlitespeed-doc/installation/repo) 
 - [Configuration](/openlitespeed-doc/configuration)
 
 ## Alternative Setup Methods
@@ -27,8 +27,8 @@ OpenLiteSpeed is the Open Source edition of LiteSpeed Web Server Enterprise. Bot
 Fast
 {: .label .label-green }
 
-- [Launch from Image](/openlitespeed-doc/docs/installation/image) 
-- [Install from Script](/openlitespeed-doc/docs/installation/script) 
+- [Launch from Image](/openlitespeed-doc/installation/image) 
+- [Install from Script](/openlitespeed-doc/installation/script) 
 - [Launch from Docker](/openlitespeed-doc/installation/docker) 
 
 
