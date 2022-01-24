@@ -10,7 +10,7 @@ permalink: /installation/docker
 
 Launch an Existing Image from [Docker Hub](https://hub.docker.com/search?q=litespeedtech&type=image)
 
-||![ols](/openlitespeed-doc/assets/images/Cloud/docker-ols-logo_160x160.png)|
+||![ols](/assets/images/Cloud/docker-ols-logo_160x160.png)|
 | :-------------: | :-------------: |
 |Server Only|OpenLiteSpeed<br>[Instructions](https://docs.litespeedtech.com/cloud/docker/openlitespeed/)<br>[Launch](https://hub.docker.com/repository/docker/litespeedtech/openlitespeed)|
 |Server + WordPress|OLS+WP<br>[Instructions](https://docs.litespeedtech.com/cloud/docker/ols%2Bwordpress/)<br>[Launch](https://hub.docker.com/repository/docker/litespeedtech/openlitespeed)|
