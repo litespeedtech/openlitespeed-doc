@@ -16,7 +16,7 @@
 title: OpenLiteSpeed Documentation
 description: OpenLiteSpeed Documentation
 baseurl: "/openlitespeed-doc" # the subpath of your site, e.g. /blog
-url: "https://litespeedtech.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://docs.openlitespeed.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
