@@ -76,10 +76,10 @@ RewriteRule ^(.*)$ HTTPS://apachehttps/$1 [P,L,E=PROXY-HOST:WWW.EXAMPLE1.COM]
 
 ##### Notes
 
-    - `apache`, `apachehttp`, and `apachehttps` are the names of proxy (web server) external applications you have presumably created. If your proxies have other names, use them instead.
-    - For IP-based virtual hosting, you will need to set up a different web server external application for each vhost, as each web server external application only reroutes traffic to a single IP address.
-    - Add `https://` in front if the external web server uses HTTPS. Port is optional if the external web server uses the standard ports.
-    - For more advanced situations, please see our [Advanced Reverse Proxy](https://openlitespeed.org/kb/advanced-reverse-proxy/) knowledgebase article.
+- `apache`, `apachehttp`, and `apachehttps` are the names of proxy (web server) external applications you have presumably created. If your proxies have other names, use them instead.
+- For IP-based virtual hosting, you will need to set up a different web server external application for each vhost, as each web server external application only reroutes traffic to a single IP address.
+- Add `https://` in front if the external web server uses HTTPS. Port is optional if the external web server uses the standard ports.
+- For more advanced situations, please see our [Advanced Reverse Proxy](https://openlitespeed.org/kb/advanced-reverse-proxy/) knowledgebase article.
 
 ### Method 2: Proxy with Context
 {: .d-inline-block }
