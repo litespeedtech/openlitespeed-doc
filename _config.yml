@@ -101,7 +101,7 @@ color_scheme: nil
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
-ga_tracking: 259037484 #GA4 ID doesn't look like the example
+ga_tracking: UA-49122931-2
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 
 plugins:
