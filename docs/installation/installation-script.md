@@ -3,7 +3,7 @@ layout: default
 title: Install from Script
 parent: Installation
 nav_order: 3
-permalink: /docs/installation/script
+permalink: /installation/script
 ---
 
 # Install from One-Click Script

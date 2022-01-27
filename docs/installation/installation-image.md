@@ -3,7 +3,7 @@ layout: default
 title: Launch from Image
 parent: Installation
 nav_order: 2
-permalink: /docs/installation/image
+permalink: /installation/image
 ---
 
 # Launch from an Existing Image
