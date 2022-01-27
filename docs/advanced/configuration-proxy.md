@@ -3,7 +3,7 @@ layout: default
 title: Use OLS as Reverse Proxy
 parent: Advanced
 permalink: /docs/advanced/proxy
-nav_order: 5
+nav_order: 2
 ---
 
 
