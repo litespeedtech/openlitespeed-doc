@@ -3,7 +3,7 @@ layout: default
 title: Configure Security
 parent: Advanced
 permalink: /docs/advanced/security
-nav_order: 4
+nav_order: 1
 ---
 
 <details open markdown="block">
