@@ -3,7 +3,7 @@ layout: default
 title: Install from Repository
 parent: Installation
 nav_order: 1
-permalink: /docs/installation/repo
+permalink: /installation/repo
 ---
 
 # Install OpenLiteSpeed and PHP from LiteSpeed Repository
@@ -82,4 +82,4 @@ To access the WebAdmin console, visit port `7080` of your domain (for example,`h
 ## Next Step
 {: .no_toc} 
 
-- [Configuration](/openlitespeed-doc/configuration)
+- [Configuration](/configuration)
