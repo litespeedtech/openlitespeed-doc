@@ -21,19 +21,8 @@ permalink: /installation/repo
 
 ## Install the LiteSpeed Repository
 
-- Debian/Ubuntu
 ```bash
-sudo wget -O - http://rpms.litespeedtech.com/debian/enable_lst_debian_repo.sh | sudo bash
-```
-- AlmaLinux 8 & CentOS 8
-```bash
-sudo rpm -Uvh http://rpms.litespeedtech.com/centos/litespeed-repo-1.3-1.el8.noarch.rpm
-sudo yum install epel-release
-```
-- CentOS 7
-```bash
-sudo rpm -Uvh http://rpms.litespeedtech.com/centos/litespeed-repo-1.3-1.el7.noarch.rpm
-sudo yum install epel-release
+sudo wget -O - https://repo.litespeed.sh | sudo bash
 ```
 
 ## Install OpenLiteSpeed
