@@ -27,12 +27,12 @@ sudo wget -O - http://rpms.litespeedtech.com/debian/enable_lst_debian_repo.sh | 
 ```
 - AlmaLinux 8 & CentOS 8
 ```bash
-sudo rpm -Uvh http://rpms.litespeedtech.com/centos/litespeed-repo-1.1-1.el8.noarch.rpm
+sudo rpm -Uvh http://rpms.litespeedtech.com/centos/litespeed-repo-1.3-1.el8.noarch.rpm
 sudo yum install epel-release
 ```
 - CentOS 7
 ```bash
-sudo rpm -Uvh http://rpms.litespeedtech.com/centos/litespeed-repo-1.1-1.el7.noarch.rpm
+sudo rpm -Uvh http://rpms.litespeedtech.com/centos/litespeed-repo-1.3-1.el7.noarch.rpm
 sudo yum install epel-release
 ```
 
