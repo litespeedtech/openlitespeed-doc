@@ -29,7 +29,7 @@ sudo wget -O - https://repo.litespeed.sh | sudo bash
 
 - Debian/Ubuntu
 ```bash
-sudo apt-get install openlitespeed
+sudo apt-get -y install openlitespeed
 ```
 - CentOS
 ```bash
