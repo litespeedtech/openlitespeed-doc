@@ -25,6 +25,11 @@ permalink: /installation/repo
 sudo wget -O - https://repo.litespeed.sh | sudo bash
 ```
 
+## download the package lists from the repositories
+```bash
+sudo apt-get update
+```
+
 ## Install OpenLiteSpeed
 
 - Debian/Ubuntu
