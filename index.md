@@ -34,12 +34,16 @@ Fast
 
 ## Supported Operating Systems 
 
-- [Debian 7, 8, 9, 10, 11](https://www.debian.org/distrib/)
-- [Ubuntu 16, 18, 20](https://www.ubuntu.com/download)
-- [CentOS 6, 7, 8](https://www.centos.org/download/)
-- [AlamaLinux 8](https://mirrors.almalinux.org/isos.html)
+OpenLiteSpeed supports current and non-EOL versions of the following Linux distributions:
 
-
+- [RedHat Enterprise Linux](https://developers.redhat.com/products/rhel/download) and derivatives
+  - [AlamaLinux](https://mirrors.almalinux.org/isos.html)
+  - [CentOS](https://www.centos.org/download/)
+  - [CloudLinux](https://docs.cloudlinux.com/cloudlinux_installation/#installing-new-servers)
+  - [Oracle Linux](https://yum.oracle.com/oracle-linux-isos.html)
+  - [RockyLinux](https://rockylinux.org/download/)
+  - [VzLinux](https://vzlinux.org/)
+- [Debian](https://www.debian.org/distrib/) and [Ubuntu](https://www.ubuntu.com/download)
 
 ## About OpenLiteSpeed
 
