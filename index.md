@@ -36,7 +36,7 @@ Fast
 
 OpenLiteSpeed supports current and non-EOL versions of the following Linux distributions:
 
-- RedHat Enterprise Linux and derivatives
+- [RedHat Enterprise Linux](https://developers.redhat.com/products/rhel/download) and derivatives
   - [AlamaLinux](https://mirrors.almalinux.org/isos.html)
   - [CentOS](https://www.centos.org/download/)
   - [CloudLinux](https://docs.cloudlinux.com/cloudlinux_installation/#installing-new-servers)
