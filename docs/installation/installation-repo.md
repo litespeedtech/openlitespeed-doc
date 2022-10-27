@@ -33,7 +33,8 @@ sudo apt-get -y install openlitespeed
 ```
 - CentOS
 ```bash
-sudo yum install openlitespeed
+sudo yum install epel-release -y
+sudo yum install openlitespeed -y
 ```
 
 ## Install LSPHP
