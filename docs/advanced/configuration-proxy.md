@@ -75,7 +75,7 @@ RewriteRule ^(.*)$ HTTPS://apachehttps/$1 [P,L,E=PROXY-HOST:WWW.EXAMPLE1.COM]
 ```
 
 ##### Notes
-
+{: .no_toc}
 - `apache`, `apachehttp`, and `apachehttps` are the names of proxy (web server) external applications you have presumably created. If your proxies have other names, use them instead.
 - For IP-based virtual hosting, you will need to set up a different web server external application for each vhost, as each web server external application only reroutes traffic to a single IP address.
 - Add `https://` in front if the external web server uses HTTPS. Port is optional if the external web server uses the standard ports.

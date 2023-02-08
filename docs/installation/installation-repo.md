@@ -29,11 +29,12 @@ sudo wget -O - https://repo.litespeed.sh | sudo bash
 
 - Debian/Ubuntu
 ```bash
-sudo apt-get install openlitespeed
+sudo apt-get -y install openlitespeed
 ```
 - CentOS
 ```bash
-sudo yum install openlitespeed
+sudo yum install epel-release -y
+sudo yum install openlitespeed -y
 ```
 
 ## Install LSPHP
@@ -61,6 +62,8 @@ sudo yum search lsphp
 ```
 
 ## Access the WebAdmin Console
+
+The WebAdmin random generated password will be stored in the **/usr/local/lsws/adminpasswd** file. 
 
 Run the following command to set the WebAdmin password if needed:
 ```bash
