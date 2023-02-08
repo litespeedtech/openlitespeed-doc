@@ -63,7 +63,7 @@ sudo yum search lsphp
 
 ## Access the WebAdmin Console
 
-The WebAdmin random generated password will be stored in the **/usr/local/lsws/adminpasswd** file. 
+The randomly generated WebAdmin password is stored in the `/usr/local/lsws/adminpasswd` file. 
 
 Run the following command to set the WebAdmin password if needed:
 ```bash
