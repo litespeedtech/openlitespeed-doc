@@ -34,7 +34,7 @@ sudo apt-get -y install openlitespeed
 
 - CentOS 9
 ```bash
-sudo yum install install https://rpms.remirepo.net/enterprise/remi-release-9.rpm -y
+sudo yum install https://rpms.remirepo.net/enterprise/remi-release-9.rpm -y
 sudo yum install openlitespeed -y
 ```
 
