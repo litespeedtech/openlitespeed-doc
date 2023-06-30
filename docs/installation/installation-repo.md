@@ -32,15 +32,8 @@ sudo wget -O - https://repo.litespeed.sh | sudo bash
 sudo apt-get -y install openlitespeed
 ```
 
-- CentOS 9
+- CentOS
 ```bash
-sudo yum install https://rpms.remirepo.net/enterprise/remi-release-9.rpm -y
-sudo yum install openlitespeed -y
-```
-
-- CentOS 5~8
-```bash
-sudo yum install epel-release -y
 sudo yum install openlitespeed -y
 ```
 
