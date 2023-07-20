@@ -31,23 +31,23 @@ sudo wget -O - https://repo.litespeed.sh | sudo bash
 ```bash
 sudo apt-get -y install openlitespeed
 ```
+
 - CentOS
 ```bash
-sudo yum install epel-release -y
 sudo yum install openlitespeed -y
 ```
 
 ## Install LSPHP
 
-This command will install `lsphp80` and `lsphp80-mysql` into `/usr/local/lsws/lsphp80/bin/lsphp`:
+This command will install `lsphp81` and `lsphp81-mysql` into `/usr/local/lsws/lsphp81/bin/lsphp`:
 
 - Debian/Ubuntu
 ```bash
-sudo apt-get install lsphp80 lsphp80-common lsphp80-mysql
+sudo apt-get install lsphp81 lsphp81-common lsphp81-mysql
 ```
 - CentOS
 ```bash
-sudo yum install lsphp80 lsphp80-common lsphp80-mysqlnd
+sudo yum install lsphp81 lsphp81-common lsphp81-mysqlnd
 ```
 
 To get a list of the LSPHP packages and extensions available, you can run the following:
