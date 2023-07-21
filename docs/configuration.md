@@ -31,13 +31,16 @@ Forward the domain names of your web sites to the IP address used by your web se
 1. Create directories for your new virtual host. In this example, we've named our virtual host `Example2`. From the command line, add an `Example2` directory, plus three subdirectories `conf`,`html`, and `logs`, in your LSWS directory, like so:
 ```bash
 mkdir /usr/local/lsws/Example2
-mkdir /usr/local/lsws/Example2/{conf,html,logs}
+mkdir /usr/local/lsws/Example2/conf
+mkdir /usr/local/lsws/Example2/html
+mkdir /usr/local/lsws/Example2/logs
+
 ```
 2. Change the owner of the `conf` directory to `lsadm:lsadm` (the WebAdmin Console user) so that only the WebAdmin Console will have the ability to manipulate Example2's configuration.
 ```bash
 chown lsadm:lsadm /usr/local/lsws/Example2/conf
 ```
-3. Add the `Example2` virtual host to the WebAdmin Console. Navigate to **Virtual Hosts > Add**, and configure the settings like so:
+3. Add the `Example2` virtual host to the WebAdmin Console. Navigate to **Virtual Hosts > Add**, plus symbol (+),  and configure the settings like so:
   - **Virtual Host Name** = `Example2`
   - **Virtual Host Root** = `$SERVER_ROOT/Example2`
   - **Config File** = `$SERVER_ROOT/conf/vhosts/Example2/vhost.conf`
