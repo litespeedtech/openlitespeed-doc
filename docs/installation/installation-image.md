@@ -22,6 +22,8 @@ Launch an OpenLiteSpeed instance from one of our Cloud Image providers.
 |[**Vultr**](https://www.vultr.com/marketplace/)|[Launch](https://www.vultr.com/marketplace/apps/openlitespeed-wordpress)|[Launch](https://www.vultr.com/marketplace/apps/cyberpanel)|[Launch](https://www.vultr.com/marketplace/apps/openlitespeed-django)|[Launch](https://www.vultr.com/marketplace/apps/openlitespeed-nodejs)|[Launch](https://www.vultr.com/marketplace/apps/openlitespeed-rails)|
 |[**IDrive Compute**](https://www.idrivecompute.com/application-stack-images.htm)|[Launch](https://www.idrivecompute.com/application-stack-ols-wordpress.htm)|[Launch](https://www.idrivecompute.com/application-stack-cyberpanel.htm)| - |[Launch](https://www.idrivecompute.com/application-stack-ols-nodejs.htm)| - |
 |[**Hostinger**](https://www.hostinger.com/vps-hosting)| - |[Launch](https://www.hostinger.com/cyberpanel-vps-hosting)|[Launch](https://www.hostinger.com/vps-hosting)|[Launch](https://www.hostinger.com/vps-hosting)|[Launch](https://www.hostinger.com/vps-hosting)|
+|[**LightNode**](https://www.lightnode.com/en-US/product)|[Launch](https://go.lightnode.com/openlitespeed-wordpress-vps)|[Launch](https://go.lightnode.com/cyberpanel-vps)| - | - | - |
+
 
 ||||
 | :-------------: | :-------------: | :-------------: |
