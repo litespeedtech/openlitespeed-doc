@@ -32,7 +32,7 @@ Usage: `./ols1clk.sh [option] [option] …`
 | `-A` | `--adminpassword [PASSWORD]`   | To set the WebAdmin password for OpenLiteSpeed instead of using a random one.               |
 | `-E` | `--email [EMAIL]`              | To set the administrator email.                                                             |
 |      | `--lsphp [VERSION]`            | To set the LSPHP version, such as 81. We currently support versions '71 72 73 74 80 81 82'. |
-|      | `--mariadbver [VERSION]`       | To set MariaDB version, such as 10.5. We currently support versions '10.2 10.3 .. 10.11'.  |
+|      | `--mariadbver [VERSION]`       | To set MariaDB version, such as 10.5. We currently support versions '10.2 10.3 .. 10.11'.   |
 | `-W` | `--wordpress`                  | To install WordPress. You will still need to complete the WordPress setup by browser        |
 |      | `--wordpressplus [SITEDOMAIN]` | To install, setup, and configure WordPress, also LSCache will be enabled                    |
 |      | `--wordpresspath [WP_PATH]`    | To specify a location for the new WordPress installation or use for an existing WordPress.  |
@@ -51,6 +51,8 @@ Usage: `./ols1clk.sh [option] [option] …`
 |      | `--pure-percona`               | To install OpenLiteSpeed and Percona.                                                       |
 |      | `--with-mysql`                 | To install OpenLiteSpeed/App with MySQL.                                                    |
 |      | `--with-percona`               | To install OpenLiteSpeed/App with Percona.                                                  |
+|      | `--owasp-enable`               | To enable mod_security with OWASP rules. If OLS is installed, then enable the owasp directly|
+|      | `--owasp-disable`              | To disable mod_security with OWASP rules.                                                   |
 |      | `--proxy-r`                    | To set a proxy with rewrite type.                                                           |
 |      | `--proxy-c`                    | To set a proxy with config type.                                                            |
 | `-U` | `--uninstall`                  | To uninstall OpenLiteSpeed and remove installation directory.                               |
